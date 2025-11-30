@@ -6,8 +6,8 @@ I focus my studies on both <strong>Front-End</strong> and <strong>Back-End</stro
 
 ## About me
 
-- 📚 Independent student on Programming
-- 💻 I have a channel on [Youtube](https://www.youtube.com/@nalugao) that I created to practice public speaking by explaining the code I develop, while also supporting those starting out in programming
+- Independent student on Programming
+- I have a channel on [Youtube](https://www.youtube.com/@nalugao) that I created to practice public speaking by explaining the code I develop, while also supporting those starting out in programming
 
 ## Technologies and languages 
 
